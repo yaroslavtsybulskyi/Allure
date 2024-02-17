@@ -25,3 +25,6 @@ allure serve allure_result
 ```
 This command will generate a dashboard where you can explore the detailed results of the test run.
 
+As a result, you should see a similar dashboard view: 
+
+[![Allure Dashboard](https://i.postimg.cc/sDnRXgZx/Screenshot-2024-02-17-at-15-06-05.png)](https://postimg.cc/2VBt9mGN)
